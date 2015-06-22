@@ -1,0 +1,1 @@
+This application demonstrates how to use Play 2.4 and Slick 3.0 to do streaming uploads and downloads into a database. The uploads currently go via a File. The downloads are read from a Blob in the database.
